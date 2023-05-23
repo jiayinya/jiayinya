@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 - 前端框架: Vue2/Vue3, React
 - 工程化: Webpack
 
+🧣 **我的博客**
+- Vue源码系列
+- React源码系列
+- Webpack系列
+- Node系列
+- JS设计模式系列
+
+
 📚 **我的书架**
 
 - 技术类：
