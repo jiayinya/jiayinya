@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 工程化: Webpack
 
 🧣 **我的博客**
+- [若川源码共读系列](https://juejin.cn/column/7106015982644428831)
 - Vue源码系列
 - React源码系列
 - Webpack系列
