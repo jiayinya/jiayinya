@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 前端基础: HTML5, CSS, JS, ES6+, TS
 - 前端框架: Vue2/Vue3, React
 - 工程化: Webpack
+- 服务端: Nest.js
 
 🧣 **我的博客**
 - [若川源码共读系列](https://juejin.cn/column/7106015982644428831)
